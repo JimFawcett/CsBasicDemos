@@ -1,0 +1,14 @@
+c:\su\cse681\code\Net3.5Stuff\delegates\obj\Debug\ResolveAssemblyReference.cache
+c:\su\cse681\code\Net3.5Stuff\delegates\bin\Debug\delegates.exe
+c:\su\cse681\code\Net3.5Stuff\delegates\bin\Debug\delegates.pdb
+c:\su\cse681\code\Net3.5Stuff\delegates\obj\Debug\delegates.exe
+c:\su\cse681\code\Net3.5Stuff\delegates\obj\Debug\delegates.pdb
+C:\su\coretechnologies\CSharp\code\Net3.5Stuff\delegates\obj\Debug\delegates.exe
+C:\su\coretechnologies\CSharp\code\Net3.5Stuff\delegates\obj\Debug\delegates.pdb
+C:\su\coretechnologies\CSharp\code\Net3.5Stuff\delegates\bin\Debug\delegates.exe
+C:\su\coretechnologies\CSharp\code\Net3.5Stuff\delegates\bin\Debug\delegates.pdb
+C:\su\coretechnologies\CSharp\code\Net3.5Stuff\delegates\obj\Debug\delegates.csprojResolveAssemblyReference.cache
+Z:\CoreTechnologies\CSharp\code\Delegates-using\delegates\bin\Debug\delegates.exe
+Z:\CoreTechnologies\CSharp\code\Delegates-using\delegates\bin\Debug\delegates.pdb
+Z:\CoreTechnologies\CSharp\code\Delegates-using\delegates\obj\Debug\delegates.exe
+Z:\CoreTechnologies\CSharp\code\Delegates-using\delegates\obj\Debug\delegates.pdb

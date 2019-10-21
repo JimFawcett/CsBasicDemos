@@ -1,0 +1,9 @@
+C:\SU\cse681\code\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe.config
+C:\SU\cse681\code\LinqExamples\LinqExamples\obj\Debug\LinqExamples.csprojResolveAssemblyReference.cache
+C:\SU\cse681\code\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe
+C:\SU\cse681\code\LinqExamples\LinqExamples\bin\Debug\LinqExamples.pdb
+C:\SU\cse681\code\LinqExamples\LinqExamples\obj\Debug\LinqExamples.exe
+C:\SU\cse681\code\LinqExamples\LinqExamples\obj\Debug\LinqExamples.pdb
+C:\SU\cse681\code\LinqQueryExamples\LinqExamples\bin\Debug\LinqExamples.exe.config
+C:\SU\cse681\code\LinqQueryExamples\LinqExamples\obj\Debug\LinqExamples.exe
+C:\SU\cse681\code\LinqQueryExamples\LinqExamples\obj\Debug\LinqExamples.pdb

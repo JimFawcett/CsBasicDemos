@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--comment about this document-->
+<root>
+  <first_child Id="e1">a child</first_child>
+  <second_child>
+    <first_grandchild>fgc body</first_grandchild>
+    <second_grandchild />
+  </second_child>
+  <third_child />
+</root>

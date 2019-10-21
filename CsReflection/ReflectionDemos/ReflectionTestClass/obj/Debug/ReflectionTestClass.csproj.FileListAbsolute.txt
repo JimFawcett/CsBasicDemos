@@ -1,0 +1,16 @@
+Z:\CoreTechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\bin\Debug\ReflectionDemos.exe.config
+Z:\CoreTechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\bin\Debug\ReflectionDemos.exe
+Z:\CoreTechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\bin\Debug\ReflectionDemos.pdb
+Z:\CoreTechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\bin\Debug\UtilityExtensions.exe
+Z:\CoreTechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\bin\Debug\UtilityExtensions.pdb
+Z:\CoreTechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\obj\Debug\ReflectionTestClass.csprojResolveAssemblyReference.cache
+Z:\CoreTechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\obj\Debug\ReflectionDemos.exe
+Z:\CoreTechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\obj\Debug\ReflectionDemos.pdb
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\bin\Debug\ReflectionDemos.exe.config
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\bin\Debug\ReflectionDemos.exe
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\bin\Debug\ReflectionDemos.pdb
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\bin\Debug\UtilityExtensions.exe
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\bin\Debug\UtilityExtensions.pdb
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\obj\Debug\ReflectionTestClass.csprojResolveAssemblyReference.cache
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\obj\Debug\ReflectionDemos.exe
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\ReflectionTestClass\obj\Debug\ReflectionDemos.pdb

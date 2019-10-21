@@ -1,0 +1,171 @@
+
+  Testing THMessage Class
+ =========================
+
+  Testing Serialization of TestRequest data structure
+ -----------------------------------------------------
+  Serialized TestRequest data structure:
+
+  <?xml version="1.0" encoding="utf-16"?>
+<TestRequest>
+  <author>Jim Fawcett</author>
+  <tests>
+    <TestElement>
+      <testName>test1</testName>
+      <testDriver>td1.dll</testDriver>
+      <testCodes>
+        <string>tc1.dll</string>
+        <string>tc2.dll</string>
+      </testCodes>
+    </TestElement>
+    <TestElement>
+      <testName>test2</testName>
+      <testDriver>td2.dll</testDriver>
+      <testCodes>
+        <string>tc3.dll</string>
+        <string>tc4.dll</string>
+      </testCodes>
+    </TestElement>
+  </tests>
+</TestRequest>
+
+  Testing Deserialization of TestRequest from XML
+ -------------------------------------------------
+  deserializing xml string results in type: TestRequest
+
+  author: Jim Fawcett
+    test: test1
+      testDriver: td1.dll
+      testCode:   tc1.dll
+      testCode:   tc2.dll
+    test: test2
+      testDriver: td2.dll
+      testCode:   tc3.dll
+      testCode:   tc4.dll
+
+  Testing Creation and Parsing of TestRequest Message
+ -----------------------------------------------------
+  base message:
+    to: TH, from: CL, type: basic, author: Fawcett, time: 10/26/2016 5:05:10 AM, body:
+
+  formatted message:
+    to: TH
+    from: CL
+    type: basic
+    author: Fawcett
+    time: 10/26/2016 5:05:10 AM
+    body:
+
+  Creating Message using TestRequest data structure
+
+  formatted message:
+    to: TH
+    from: CL
+    type: TestRequest
+    author: Fawcett
+    time: 10/26/2016 5:05:10 AM
+    body:
+<?xml version="1.0" encoding="utf-16"?>
+<TestRequest>
+  <author>Jim Fawcett</author>
+  <tests>
+    <TestElement>
+      <testName>test1</testName>
+      <testDriver>td1.dll</testDriver>
+      <testCodes>
+        <string>tc1.dll</string>
+        <string>tc2.dll</string>
+      </testCodes>
+    </TestElement>
+    <TestElement>
+      <testName>test2</testName>
+      <testDriver>td2.dll</testDriver>
+      <testCodes>
+        <string>tc3.dll</string>
+        <string>tc4.dll</string>
+      </testCodes>
+    </TestElement>
+  </tests>
+</TestRequest>
+
+  retrieving testRequest object:
+
+  author: Jim Fawcett
+    test: test1
+      testDriver: td1.dll
+      testCode:   tc1.dll
+      testCode:   tc2.dll
+    test: test2
+      testDriver: td2.dll
+      testCode:   tc3.dll
+      testCode:   tc4.dll
+
+  Testing Serialization of TestResults data structure
+ -----------------------------------------------------
+  Serialized TestResults data structure:
+
+  <?xml version="1.0" encoding="utf-16"?>
+<TestResults>
+  <author>Fawcett</author>
+  <timeStamp>2016-10-26T05:05:10.3146682-04:00</timeStamp>
+  <results>
+    <TestResult>
+      <testName>test1</testName>
+      <passed>true</passed>
+      <log>test always passes</log>
+    </TestResult>
+    <TestResult>
+      <testName>test2</testName>
+      <passed>false</passed>
+      <log>test always fails every time</log>
+    </TestResult>
+  </results>
+</TestResults>
+
+  Testing Deserialization of TestResults from XML
+ -------------------------------------------------
+  deserializing xml string results in type: TestResults
+
+  Author: Fawcett 10/26/2016 5:05:10 AM
+    Test: test1 True
+    log:  test always passes
+    Test: test2 False
+    log:  test always fails every time
+
+  Testing Creation and Parsing of TestResults Message
+ -----------------------------------------------------
+  Creating Message using TestResults data structure
+
+  formatted message:
+    to: CL
+    from: TH
+    type: TestResults
+    author: TestHarness
+    time: 10/26/2016 5:05:10 AM
+    body:
+<?xml version="1.0" encoding="utf-16"?>
+<TestResults>
+  <author>Fawcett</author>
+  <timeStamp>2016-10-26T05:05:10.3146682-04:00</timeStamp>
+  <results>
+    <TestResult>
+      <testName>test1</testName>
+      <passed>true</passed>
+      <log>test always passes</log>
+    </TestResult>
+    <TestResult>
+      <testName>test2</testName>
+      <passed>false</passed>
+      <log>test always fails every time</log>
+    </TestResult>
+  </results>
+</TestResults>
+
+  retrieving testResults object:
+
+  Author: Fawcett 10/26/2016 5:05:10 AM
+    Test: test1 True
+    log:  test always passes
+    Test: test2 False
+    log:  test always fails every time
+

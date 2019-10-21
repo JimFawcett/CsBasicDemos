@@ -1,0 +1,2 @@
+:rTest.bat
+  Test *.*

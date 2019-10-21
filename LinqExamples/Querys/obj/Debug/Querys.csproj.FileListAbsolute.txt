@@ -1,0 +1,15 @@
+c:\su\cse775\code\LinQexamples\LinqExamples\Querys\bin\Debug\Querys.exe
+c:\su\cse775\code\LinQexamples\LinqExamples\Querys\bin\Debug\Querys.pdb
+c:\su\cse775\code\LinQexamples\LinqExamples\Querys\obj\Debug\ResolveAssemblyReference.cache
+c:\su\cse775\code\LinQexamples\LinqExamples\Querys\obj\Debug\Querys.exe
+c:\su\cse775\code\LinQexamples\LinqExamples\Querys\obj\Debug\Querys.pdb
+C:\su\CoreTechnologies\CSharp\code\LinQexamples\LinqExamples\Querys\obj\Debug\Querys.exe
+C:\su\CoreTechnologies\CSharp\code\LinQexamples\LinqExamples\Querys\obj\Debug\Querys.pdb
+C:\su\CoreTechnologies\CSharp\code\LinQexamples\LinqExamples\Querys\bin\Debug\Querys.exe
+C:\su\CoreTechnologies\CSharp\code\LinQexamples\LinqExamples\Querys\bin\Debug\Querys.pdb
+C:\su\CoreTechnologies\CSharp\code\LinQexamples\LinqExamples\Querys\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\Querys\obj\Debug\Querys.exe
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\Querys\obj\Debug\Querys.pdb
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\Querys\bin\Debug\Querys.exe
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\Querys\bin\Debug\Querys.pdb
+C:\su\coretechnologies\CSharp\code\LinqExamples\Querys\obj\Debug\Querys.csprojResolveAssemblyReference.cache

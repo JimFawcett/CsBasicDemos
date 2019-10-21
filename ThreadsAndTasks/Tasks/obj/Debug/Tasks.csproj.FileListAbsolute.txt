@@ -1,0 +1,6 @@
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\Tasks\bin\Debug\Tasks.exe.config
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\Tasks\bin\Debug\Tasks.exe
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\Tasks\bin\Debug\Tasks.pdb
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\Tasks\obj\Debug\Tasks.exe
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\Tasks\obj\Debug\Tasks.pdb

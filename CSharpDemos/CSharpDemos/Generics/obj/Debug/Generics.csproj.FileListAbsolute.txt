@@ -1,0 +1,8 @@
+C:\su\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\Generics\bin\Debug\Generics.exe.config
+C:\su\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\Generics\bin\Debug\Generics.exe
+C:\su\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\Generics\bin\Debug\Generics.pdb
+C:\su\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\Generics\bin\Debug\DemoExtensions.exe
+C:\su\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\Generics\bin\Debug\DemoExtensions.pdb
+C:\su\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\Generics\obj\Debug\Generics.exe
+C:\su\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\Generics\obj\Debug\Generics.pdb

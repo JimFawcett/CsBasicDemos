@@ -1,0 +1,7 @@
+C:\su\coretechnologies\CSharp\code\NetContainers\Dictionary\bin\Debug\Dictionary.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\Dictionary\bin\Debug\Dictionary.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\Dictionary\bin\Debug\Utility.dll
+C:\su\coretechnologies\CSharp\code\NetContainers\Dictionary\bin\Debug\Utility.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\Dictionary\obj\x86\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\NetContainers\Dictionary\obj\x86\Debug\Dictionary.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\Dictionary\obj\x86\Debug\Dictionary.pdb

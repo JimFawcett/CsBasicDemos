@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+  <!--
+  ===============================================
+    These are current entries on my to-do list.
+  ===============================================
+  -->
+  <appointments>
+    <critical_appointments color="red">
+      <suzy>6:00 at Bernardos</suzy>
+      <dentist>15 Sep, 8:45</dentist>
+      <tom>10:00 in Lab</tom>
+    </critical_appointments>
+    <not_so_important color="blue">
+      <groceries>on way home</groceries>
+      <notes>for meeting in two weeks</notes>
+    </not_so_important>
+    <why_did_I_agree_to_these_appointments color="gray">
+      <insurance_agent>cancel before tomorrow</insurance_agent>
+      <contributions>send contrib to Bill Gates Retirement Fund</contributions>
+      <paint_family_room>It sure looks scruffy</paint_family_room>
+    </why_did_I_agree_to_these_appointments>
+  </appointments>
+  
+<!-- note that only one root note is allowed -->

@@ -1,0 +1,219 @@
+
+  Demonstrating Reflection
+ ==========================
+
+  Reflecting on ReflectionTest class
+ ------------------------------------
+
+  constructing ReflectionTest instance
+  Showing members using reflection
+ ----------------------------------
+  name of type is "ReflectionTest"
+
+  It's public methods are, using reflection:
+ --------------------------------------------
+  System.String get_name()
+  Void set_name(System.String)
+  Void say()
+  Void staticSay()
+  System.String ToString()
+  Boolean Equals(System.Object)
+  Int32 GetHashCode()
+  System.Type GetType()
+
+  It's public properties are, using reflection:
+ -----------------------------------------------
+  System.String name
+
+  It's public fields are, using reflection:
+ -------------------------------------------
+  SayHandler sayHandler
+
+  It's nested types are, using reflection:
+ ------------------------------------------
+  ReflectionDemos.ReflectionTest+SayHandler
+  ReflectionDemos.ReflectionTest+Nested
+
+  It's non-public methods are, using reflection:
+ ------------------------------------------------
+  Void Finalize()
+  System.Object MemberwiseClone()
+
+  It's non-public properties are, using reflection:
+ ---------------------------------------------------
+
+  It's non-public fields are, using reflection:
+ -----------------------------------------------
+  System.String <name>k__BackingField
+  Int32 count
+  System.Text.StringBuilder sb_
+
+
+  Reflecting on ReflectionTest's delegate sayHandler
+ ----------------------------------------------------
+
+  Showing members using reflection
+ ----------------------------------
+  name of type is "SayHandler"
+
+  It's public methods are, using reflection:
+ --------------------------------------------
+  Void Invoke(System.String)
+  System.IAsyncResult BeginInvoke(System.String, System.AsyncCallback, System.Object)
+  Void EndInvoke(System.IAsyncResult)
+  Void GetObjectData(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  Boolean Equals(System.Object)
+  System.Delegate[] GetInvocationList()
+  Int32 GetHashCode()
+  System.Object DynamicInvoke(System.Object[])
+  System.Reflection.MethodInfo get_Method()
+  System.Object get_Target()
+  System.Object Clone()
+  System.String ToString()
+  System.Type GetType()
+
+  It's public properties are, using reflection:
+ -----------------------------------------------
+  System.Reflection.MethodInfo Method
+  System.Object Target
+
+  It's public fields are, using reflection:
+ -------------------------------------------
+
+  It's nested types are, using reflection:
+ ------------------------------------------
+
+  It's non-public methods are, using reflection:
+ ------------------------------------------------
+  Boolean IsUnmanagedFunctionPtr()
+  Boolean InvocationListLogicallyNull()
+  System.MulticastDelegate NewMulticastDelegate(System.Object[], Int32)
+  Void StoreDynamicMethod(System.Reflection.MethodInfo)
+  System.Delegate CombineImpl(System.Delegate)
+  System.Delegate RemoveImpl(System.Delegate)
+  System.Object GetTarget()
+  System.Reflection.MethodInfo GetMethodImpl()
+  System.Object DynamicInvokeImpl(System.Object[])
+  IntPtr GetMulticastInvoke()
+  IntPtr GetInvokeMethod()
+  System.IRuntimeMethodInfo FindMethodHandle()
+  IntPtr AdjustTarget(System.Object, IntPtr)
+  IntPtr GetCallStub(IntPtr)
+  Void Finalize()
+  System.Object MemberwiseClone()
+
+  It's non-public properties are, using reflection:
+ ---------------------------------------------------
+
+  It's non-public fields are, using reflection:
+ -----------------------------------------------
+  System.Object _target
+  System.Object _methodBase
+  IntPtr _methodPtr
+  IntPtr _methodPtrAux
+
+
+  Invoking lambda defined in main
+ ---------------------------------
+
+  this is lambda invocation: "lambda argument and localMsg"
+  second argument is True
+
+  Reflecting on lamda bound to Action<string>
+ ---------------------------------------------
+
+  Showing members using reflection
+ ----------------------------------
+  name of type is "Action`2"
+
+  It's public methods are, using reflection:
+ --------------------------------------------
+  Void Invoke(System.String, Boolean)
+  System.IAsyncResult BeginInvoke(System.String, Boolean, System.AsyncCallback, System.Object)
+  Void EndInvoke(System.IAsyncResult)
+  Void GetObjectData(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  Boolean Equals(System.Object)
+  System.Delegate[] GetInvocationList()
+  Int32 GetHashCode()
+  System.Object DynamicInvoke(System.Object[])
+  System.Reflection.MethodInfo get_Method()
+  System.Object get_Target()
+  System.Object Clone()
+  System.String ToString()
+  System.Type GetType()
+
+  It's public properties are, using reflection:
+ -----------------------------------------------
+  System.Reflection.MethodInfo Method
+  System.Object Target
+
+  It's public fields are, using reflection:
+ -------------------------------------------
+
+  It's nested types are, using reflection:
+ ------------------------------------------
+
+  It's non-public methods are, using reflection:
+ ------------------------------------------------
+  Boolean IsUnmanagedFunctionPtr()
+  Boolean InvocationListLogicallyNull()
+  System.MulticastDelegate NewMulticastDelegate(System.Object[], Int32)
+  Void StoreDynamicMethod(System.Reflection.MethodInfo)
+  System.Delegate CombineImpl(System.Delegate)
+  System.Delegate RemoveImpl(System.Delegate)
+  System.Object GetTarget()
+  System.Reflection.MethodInfo GetMethodImpl()
+  System.Object DynamicInvokeImpl(System.Object[])
+  IntPtr GetMulticastInvoke()
+  IntPtr GetInvokeMethod()
+  System.IRuntimeMethodInfo FindMethodHandle()
+  IntPtr AdjustTarget(System.Object, IntPtr)
+  IntPtr GetCallStub(IntPtr)
+  Void Finalize()
+  System.Object MemberwiseClone()
+
+  It's non-public properties are, using reflection:
+ ---------------------------------------------------
+
+  It's non-public fields are, using reflection:
+ -----------------------------------------------
+  System.Object _target
+  System.Object _methodBase
+  IntPtr _methodPtr
+  IntPtr _methodPtrAux
+
+  Reflecting on Action's Target
+ -------------------------------
+
+  Showing members using reflection
+ ----------------------------------
+  name of type is "<>c__DisplayClass1_0"
+
+  It's public methods are, using reflection:
+ --------------------------------------------
+  System.String ToString()
+  Boolean Equals(System.Object)
+  Int32 GetHashCode()
+  System.Type GetType()
+
+  It's public properties are, using reflection:
+ -----------------------------------------------
+
+  It's public fields are, using reflection:
+ -------------------------------------------
+  System.String localMsg
+
+  It's nested types are, using reflection:
+ ------------------------------------------
+
+  It's non-public methods are, using reflection:
+ ------------------------------------------------
+  Void <Main>b__1(System.String, Boolean)
+  Void Finalize()
+  System.Object MemberwiseClone()
+
+  It's non-public properties are, using reflection:
+ ---------------------------------------------------
+
+  It's non-public fields are, using reflection:
+ -----------------------------------------------

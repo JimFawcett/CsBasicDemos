@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "CollectionsDemo\Collections.csproj", "{612B6962-BD8A-4246-BCDE-5C6BCF95A0D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDemoData", "TestDemoData\TestDemoData.csproj", "{B0252062-D7F2-4C4B-BA88-78CE73C99A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612B6962-BD8A-4246-BCDE-5C6BCF95A0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612B6962-BD8A-4246-BCDE-5C6BCF95A0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612B6962-BD8A-4246-BCDE-5C6BCF95A0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612B6962-BD8A-4246-BCDE-5C6BCF95A0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0252062-D7F2-4C4B-BA88-78CE73C99A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0252062-D7F2-4C4B-BA88-78CE73C99A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0252062-D7F2-4C4B-BA88-78CE73C99A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0252062-D7F2-4C4B-BA88-78CE73C99A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

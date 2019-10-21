@@ -1,0 +1,6 @@
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\TaskWithContinuation\bin\Debug\TaskWithContinuation.exe.config
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\TaskWithContinuation\bin\Debug\TaskWithContinuation.exe
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\TaskWithContinuation\bin\Debug\TaskWithContinuation.pdb
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\TaskWithContinuation\obj\Debug\TaskWithContinuation.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\TaskWithContinuation\obj\Debug\TaskWithContinuation.exe
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\TaskWithContinuation\obj\Debug\TaskWithContinuation.pdb

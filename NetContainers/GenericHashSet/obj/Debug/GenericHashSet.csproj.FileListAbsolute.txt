@@ -1,0 +1,14 @@
+C:\cse382\code\NetContainers\GenericHashSet\obj\Debug\ResolveAssemblyReference.cache
+C:\cse382\code\NetContainers\GenericHashSet\bin\Debug\GenericHashSet.exe
+C:\cse382\code\NetContainers\GenericHashSet\bin\Debug\GenericHashSet.pdb
+C:\cse382\code\NetContainers\GenericHashSet\bin\Debug\Utility.dll
+C:\cse382\code\NetContainers\GenericHashSet\bin\Debug\Utility.pdb
+C:\cse382\code\NetContainers\GenericHashSet\obj\Debug\GenericHashSet.exe
+C:\cse382\code\NetContainers\GenericHashSet\obj\Debug\GenericHashSet.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericHashSet\bin\Debug\GenericHashSet.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericHashSet\bin\Debug\GenericHashSet.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericHashSet\bin\Debug\Utility.dll
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericHashSet\bin\Debug\Utility.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericHashSet\obj\Debug\GenericHashSet.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericHashSet\obj\Debug\GenericHashSet.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericHashSet\obj\Debug\GenericHashSet.pdb

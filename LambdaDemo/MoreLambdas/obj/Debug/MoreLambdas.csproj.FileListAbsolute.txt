@@ -1,0 +1,8 @@
+C:\su\coretechnologies\CSharp\code\LambdaDemo\MoreLambdas\bin\Debug\MoreLambdas.exe.config
+C:\su\coretechnologies\CSharp\code\LambdaDemo\MoreLambdas\bin\Debug\MoreLambdas.exe
+C:\su\coretechnologies\CSharp\code\LambdaDemo\MoreLambdas\bin\Debug\MoreLambdas.pdb
+C:\su\coretechnologies\CSharp\code\LambdaDemo\MoreLambdas\obj\Debug\MoreLambdas.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\LambdaDemo\MoreLambdas\obj\Debug\MoreLambdas.exe
+C:\su\coretechnologies\CSharp\code\LambdaDemo\MoreLambdas\obj\Debug\MoreLambdas.pdb
+C:\su\coretechnologies\CSharp\code\LambdaDemo\MoreLambdas\bin\Debug\UtilityExtensions.exe
+C:\su\coretechnologies\CSharp\code\LambdaDemo\MoreLambdas\bin\Debug\UtilityExtensions.pdb

@@ -1,0 +1,12 @@
+C:\Users\jfawc\Desktop\CSharpDemos\BasicClass\bin\Debug\BasicClass.exe.config
+C:\Users\jfawc\Desktop\CSharpDemos\BasicClass\bin\Debug\BasicClass.exe
+C:\Users\jfawc\Desktop\CSharpDemos\BasicClass\bin\Debug\BasicClass.pdb
+C:\Users\jfawc\Desktop\CSharpDemos\BasicClass\obj\Debug\BasicClass.csprojResolveAssemblyReference.cache
+C:\Users\jfawc\Desktop\CSharpDemos\BasicClass\obj\Debug\BasicClass.exe
+C:\Users\jfawc\Desktop\CSharpDemos\BasicClass\obj\Debug\BasicClass.pdb
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\BasicClass\bin\Debug\BasicClass.exe.config
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\BasicClass\bin\Debug\BasicClass.exe
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\BasicClass\bin\Debug\BasicClass.pdb
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\BasicClass\obj\Debug\BasicClass.csprojResolveAssemblyReference.cache
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\BasicClass\obj\Debug\BasicClass.exe
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\BasicClass\obj\Debug\BasicClass.pdb

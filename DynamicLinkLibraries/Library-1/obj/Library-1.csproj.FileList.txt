@@ -1,0 +1,7 @@
+bin\Debug\Library-1.dll
+bin\Debug\Library-1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Library-1.dll
+obj\Debug\Library-1.pdb
+bin\Debug\LibraryInterface.dll
+bin\Debug\LibraryInterface.pdb

@@ -1,0 +1,35 @@
+
+  LambdaDemo.MoreLambdas - Demonstrating behavior of captured variables
+ =======================================================================
+  
+  Invoking delegate in Main's scope
+ --------------------------------------
+     int property from class = 42
+  string property from class = this is a demo string
+               int from main = -7
+            string from main = local string
+  
+  invoking delegate in function "anotherScope(Action act)"
+ -------------------------------------------------------------
+     int property from class = 42
+  string property from class = this is a demo string
+               int from main = -7
+            string from main = local string
+
+  Changing class properties and local data
+ ------------------------------------------
+  
+  Invoking delegate in Main's scope
+ --------------------------------------
+     int property from class = 21
+  string property from class = still another demo string
+               int from main = -14
+            string from main = still another local string
+  
+  invoking delegate in function "anotherScope(Action act)"
+ -------------------------------------------------------------
+     int property from class = 21
+  string property from class = still another demo string
+               int from main = -14
+            string from main = still another local string
+

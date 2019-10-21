@@ -1,0 +1,8 @@
+C:\su\coretechnologies\CSharp\code\LambdaDemo\PredicateLambda\bin\Debug\PredicateLambda.exe.config
+C:\su\coretechnologies\CSharp\code\LambdaDemo\PredicateLambda\bin\Debug\PredicateLambda.exe
+C:\su\coretechnologies\CSharp\code\LambdaDemo\PredicateLambda\bin\Debug\PredicateLambda.pdb
+C:\su\coretechnologies\CSharp\code\LambdaDemo\PredicateLambda\obj\Debug\PredicateLambda.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\LambdaDemo\PredicateLambda\obj\Debug\PredicateLambda.exe
+C:\su\coretechnologies\CSharp\code\LambdaDemo\PredicateLambda\obj\Debug\PredicateLambda.pdb
+C:\su\coretechnologies\CSharp\code\LambdaDemo\PredicateLambda\bin\Debug\UtilityExtensions.exe
+C:\su\coretechnologies\CSharp\code\LambdaDemo\PredicateLambda\bin\Debug\UtilityExtensions.pdb

@@ -1,0 +1,2 @@
+C:\su\CoreTechnologies\CSharp\code\Collections\CollectionsDemo\obj\Debug\ConsoleApplication1.exe
+C:\su\CoreTechnologies\CSharp\code\Collections\CollectionsDemo\obj\Debug\ConsoleApplication1.pdb

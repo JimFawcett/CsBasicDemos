@@ -1,0 +1,46 @@
+
+  Demonstrating Use of Collections
+ ==================================
+
+
+  using array of strings
+ ------------------------
+  zebra ardvaark elephant platypus
+
+
+  same stuff in sorted order
+ ----------------------------
+  ardvaark elephant platypus zebra
+
+
+  using another module
+ ----------------------
+  data sent from Class1: ardvaark elephant platypus zebra
+
+
+  using SortedList container
+ ----------------------------
+
+  bat    :  a flying mammal that uses sound as a navigation device
+
+  cheeta :  a sleek, spotted, and very fast member of the feline family
+
+  horse  :  A four-legged, not very bright, beast of burden
+
+  skunk  :  An odoriforous black and white mammal
+
+
+  using Hashtable container
+ ---------------------------
+
+  Could not find file 'C:\SU\CSE681\code\DemoData.cs'.
+
+
+  using List<string> container
+ ------------------------------
+
+  ardvarrk
+  platypus
+  mongoose
+
+

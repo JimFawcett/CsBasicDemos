@@ -1,0 +1,14 @@
+C:\cse382\code\NetContainers\HashTable\obj\Debug\ResolveAssemblyReference.cache
+C:\cse382\code\NetContainers\HashTable\bin\Debug\HashTable.exe
+C:\cse382\code\NetContainers\HashTable\bin\Debug\HashTable.pdb
+C:\cse382\code\NetContainers\HashTable\bin\Debug\Utility.dll
+C:\cse382\code\NetContainers\HashTable\bin\Debug\Utility.pdb
+C:\cse382\code\NetContainers\HashTable\obj\Debug\HashTable.exe
+C:\cse382\code\NetContainers\HashTable\obj\Debug\HashTable.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\HashTable\bin\Debug\HashTable.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\HashTable\bin\Debug\HashTable.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\HashTable\bin\Debug\Utility.dll
+C:\su\coretechnologies\CSharp\code\NetContainers\HashTable\bin\Debug\Utility.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\HashTable\obj\Debug\HashTable.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\NetContainers\HashTable\obj\Debug\HashTable.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\HashTable\obj\Debug\HashTable.pdb

@@ -1,0 +1,5 @@
+C:\su\CoreTechnologies\CSharp\code\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\su\CoreTechnologies\CSharp\code\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\su\CoreTechnologies\CSharp\code\ExtensionMethods\ExtensionMethods\obj\x86\Debug\ExtensionMethods.exe
+C:\su\CoreTechnologies\CSharp\code\ExtensionMethods\ExtensionMethods\obj\x86\Debug\ExtensionMethods.pdb
+C:\SU\coretechnologies\CSharp\code\ExtensionMethods\ExtensionMethods\obj\x86\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache

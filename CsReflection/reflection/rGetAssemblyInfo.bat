@@ -1,0 +1,2 @@
+:rGetAssemblyInfo.bat
+  GetAssemblyInfo

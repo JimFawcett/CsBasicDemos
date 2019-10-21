@@ -1,0 +1,5 @@
+C:\su\CSE681\code\DynamicLinkLibraries\LibraryInterface\bin\Debug\LibraryInterface.dll
+C:\su\CSE681\code\DynamicLinkLibraries\LibraryInterface\bin\Debug\LibraryInterface.pdb
+C:\su\CSE681\code\DynamicLinkLibraries\LibraryInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\DynamicLinkLibraries\LibraryInterface\obj\Debug\LibraryInterface.dll
+C:\su\CSE681\code\DynamicLinkLibraries\LibraryInterface\obj\Debug\LibraryInterface.pdb

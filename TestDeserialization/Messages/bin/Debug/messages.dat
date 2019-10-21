@@ -1,0 +1,29 @@
+
+  Testing Message Class
+ =======================
+
+  base message:
+    to: TH, from: CL, type: basic, author: Fawcett, time: 10/26/2016 5:05:42 AM, body:
+    a body
+
+  formatted message:
+    to: TH
+    from: CL
+    type: basic
+    author: Fawcett
+    time: 10/26/2016 5:05:42 AM
+    body:
+    a body
+
+
+  Testing Message.fromString(string)
+ ------------------------------------
+  formatted message:
+    to: TH
+    from: CL
+    type: basic
+    author: Fawcett
+    time: 10/26/2016 5:05:42 AM
+    body:
+    a body
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Collections">
+</Property><Property Name="Solution File" Value="C:\su\CoreTechnologies\CSharp\code\Collections\Collections.sln">
+</Property><Property Name="Date" Value="Thursday, September 11, 2008">
+</Property><Property Name="Time" Value="18:05 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Collections.sln" Description="File successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\Collections.sln">
+</Event><Event ErrorLevel="0" Project="Collections" Source="CollectionsDemo\Collections.csproj" Description="Project file successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\CollectionsDemo\Collections.csproj">
+</Event><Event ErrorLevel="0" Project="Collections" Source="CollectionsDemo\Collections.csproj.user" Description="Project user file successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\CollectionsDemo\Collections.csproj.user">
+</Event><Event ErrorLevel="0" Project="Collections" Source="CollectionsDemo\AssemblyInfo.cs" Description="File successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\CollectionsDemo\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Collections" Source="CollectionsDemo\CollectionsDemo.cs" Description="File successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\CollectionsDemo\CollectionsDemo.cs">
+</Event><Event ErrorLevel="0" Project="Collections" Source="CollectionsDemo\DemoData.cs" Description="File successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\CollectionsDemo\DemoData.cs">
+</Event><Event ErrorLevel="0" Project="Collections" Source="CollectionsDemo\App.ico" Description="File successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\CollectionsDemo\App.ico">
+</Event><Event ErrorLevel="0" Project="Collections" Source="CollectionsDemo\Collections.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Collections" Source="CollectionsDemo\Collections.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestDemoData" Source="TestDemoData\TestDemoData.csproj" Description="Project file successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\TestDemoData\TestDemoData.csproj">
+</Event><Event ErrorLevel="0" Project="TestDemoData" Source="TestDemoData\TestDemoData.csproj.user" Description="Project user file successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\TestDemoData\TestDemoData.csproj.user">
+</Event><Event ErrorLevel="0" Project="TestDemoData" Source="TestDemoData\AssemblyInfo.cs" Description="File successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\TestDemoData\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TestDemoData" Source="TestDemoData\DemoData.cs" Description="File successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\TestDemoData\DemoData.cs">
+</Event><Event ErrorLevel="0" Project="TestDemoData" Source="TestDemoData\App.ico" Description="File successfully backed up as C:\su\CoreTechnologies\CSharp\code\Collections\Backup1\TestDemoData\App.ico">
+</Event><Event ErrorLevel="0" Project="TestDemoData" Source="TestDemoData\TestDemoData.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestDemoData" Source="TestDemoData\TestDemoData.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Collections.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Collections.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Collections" Source="CollectionsDemo\Collections.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TestDemoData" Source="TestDemoData\TestDemoData.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,14 @@
+C:\cse382\code\NetContainers\LinkedList\obj\Debug\ResolveAssemblyReference.cache
+C:\cse382\code\NetContainers\LinkedList\bin\Debug\LinkedList.exe
+C:\cse382\code\NetContainers\LinkedList\bin\Debug\LinkedList.pdb
+C:\cse382\code\NetContainers\LinkedList\bin\Debug\Utility.dll
+C:\cse382\code\NetContainers\LinkedList\bin\Debug\Utility.pdb
+C:\cse382\code\NetContainers\LinkedList\obj\Debug\LinkedList.exe
+C:\cse382\code\NetContainers\LinkedList\obj\Debug\LinkedList.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\LinkedList\bin\Debug\LinkedList.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\LinkedList\bin\Debug\LinkedList.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\LinkedList\bin\Debug\Utility.dll
+C:\su\coretechnologies\CSharp\code\NetContainers\LinkedList\bin\Debug\Utility.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\LinkedList\obj\Debug\GenericLinkedList.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\NetContainers\LinkedList\obj\Debug\LinkedList.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\LinkedList\obj\Debug\LinkedList.pdb

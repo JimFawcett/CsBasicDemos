@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLinkLibraries", "DynamicLinkLibraries.csproj", "{7BE5DAA3-914E-43E5-A88F-52E45FD079D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library-1", "Library-1\Library-1.csproj", "{36BA5224-4A81-4E9E-B056-B3F1978854A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library-2", "Library-2\Library-2.csproj", "{6FA63C98-CE3A-43F4-B60F-CF79FB52D3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryInterface", "LibraryInterface\LibraryInterface.csproj", "{ADADA596-8C40-4FAA-816A-9937BCEEFE2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE5DAA3-914E-43E5-A88F-52E45FD079D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE5DAA3-914E-43E5-A88F-52E45FD079D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE5DAA3-914E-43E5-A88F-52E45FD079D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE5DAA3-914E-43E5-A88F-52E45FD079D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36BA5224-4A81-4E9E-B056-B3F1978854A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BA5224-4A81-4E9E-B056-B3F1978854A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BA5224-4A81-4E9E-B056-B3F1978854A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BA5224-4A81-4E9E-B056-B3F1978854A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA63C98-CE3A-43F4-B60F-CF79FB52D3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA63C98-CE3A-43F4-B60F-CF79FB52D3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA63C98-CE3A-43F4-B60F-CF79FB52D3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA63C98-CE3A-43F4-B60F-CF79FB52D3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADADA596-8C40-4FAA-816A-9937BCEEFE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADADA596-8C40-4FAA-816A-9937BCEEFE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADADA596-8C40-4FAA-816A-9937BCEEFE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADADA596-8C40-4FAA-816A-9937BCEEFE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

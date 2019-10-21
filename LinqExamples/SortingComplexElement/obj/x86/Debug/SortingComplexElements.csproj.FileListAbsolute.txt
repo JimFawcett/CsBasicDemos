@@ -1,0 +1,5 @@
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\SortingComplexElement\bin\Debug\SortingComplexElement.exe
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\SortingComplexElement\bin\Debug\SortingComplexElement.pdb
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\SortingComplexElement\obj\x86\Debug\SortingComplexElement.exe
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\SortingComplexElement\obj\x86\Debug\SortingComplexElement.pdb
+C:\su\coretechnologies\CSharp\code\LinqExamples\SortingComplexElement\obj\x86\Debug\SortingComplexElements.csprojResolveAssemblyReference.cache

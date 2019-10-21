@@ -1,0 +1,6 @@
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\concurrentThreads\bin\Debug\concurrentThreads.exe.config
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\concurrentThreads\bin\Debug\concurrentThreads.exe
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\concurrentThreads\bin\Debug\concurrentThreads.pdb
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\concurrentThreads\obj\Debug\concurrentThreads.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\concurrentThreads\obj\Debug\concurrentThreads.exe
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\concurrentThreads\obj\Debug\concurrentThreads.pdb
