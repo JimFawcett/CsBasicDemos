@@ -26,6 +26,6 @@ namespace UtilityExtensions
       "this is a title test".title();
       Console.Write("\n\n");
     }
-  }
 #endif
+  }
 }

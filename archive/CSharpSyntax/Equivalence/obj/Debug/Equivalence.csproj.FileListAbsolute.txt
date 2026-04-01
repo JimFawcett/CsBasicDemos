@@ -1,0 +1,10 @@
+C:\cse681\code\CSharpSyntax\Equivalence\obj\Debug\ResolveAssemblyReference.cache
+C:\cse681\code\CSharpSyntax\Equivalence\bin\Debug\Equivalence.exe
+C:\cse681\code\CSharpSyntax\Equivalence\bin\Debug\Equivalence.pdb
+C:\cse681\code\CSharpSyntax\Equivalence\obj\Debug\Equivalence.exe
+C:\cse681\code\CSharpSyntax\Equivalence\obj\Debug\Equivalence.pdb
+C:\su\CoreTechnologies\CSharp\code\CSharpSyntax\Equivalence\obj\Debug\Equivalence.exe
+C:\su\CoreTechnologies\CSharp\code\CSharpSyntax\Equivalence\obj\Debug\Equivalence.pdb
+C:\su\CoreTechnologies\CSharp\code\CSharpSyntax\Equivalence\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\CSharp\code\CSharpSyntax\Equivalence\bin\Debug\Equivalence.exe
+C:\su\CoreTechnologies\CSharp\code\CSharpSyntax\Equivalence\bin\Debug\Equivalence.pdb

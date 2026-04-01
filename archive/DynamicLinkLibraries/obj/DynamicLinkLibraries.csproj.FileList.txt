@@ -1,0 +1,11 @@
+bin\Debug\DynamicLinkLibraries.exe
+bin\Debug\DynamicLinkLibraries.pdb
+bin\Debug\Library-1.dll
+bin\Debug\Library-1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DynamicLinkLibraries.exe
+obj\Debug\DynamicLinkLibraries.pdb
+bin\Debug\Library-2.dll
+bin\Debug\Library-2.pdb
+bin\Debug\LibraryInterface.dll
+bin\Debug\LibraryInterface.pdb

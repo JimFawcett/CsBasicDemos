@@ -1,0 +1,13 @@
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\bin\Debug\net8.0\Querys.exe
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\bin\Debug\net8.0\Querys.deps.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\bin\Debug\net8.0\Querys.runtimeconfig.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\bin\Debug\net8.0\Querys.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\bin\Debug\net8.0\Querys.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\obj\Debug\net8.0\Querys.GeneratedMSBuildEditorConfig.editorconfig
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\obj\Debug\net8.0\Querys.csproj.CoreCompileInputs.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\obj\Debug\net8.0\Querys.sourcelink.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\obj\Debug\net8.0\Querys.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\obj\Debug\net8.0\refint\Querys.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\obj\Debug\net8.0\Querys.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\obj\Debug\net8.0\Querys.genruntimeconfig.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LinqExamples\Querys\obj\Debug\net8.0\ref\Querys.dll

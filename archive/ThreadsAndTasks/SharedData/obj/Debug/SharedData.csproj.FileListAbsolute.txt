@@ -1,0 +1,6 @@
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\SharedData\bin\Debug\SharedData.exe.config
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\SharedData\bin\Debug\SharedData.exe
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\SharedData\bin\Debug\SharedData.pdb
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\SharedData\obj\Debug\SharedData.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\SharedData\obj\Debug\SharedData.exe
+C:\su\coretechnologies\CSharp\code\ThreadsAndTasks\SharedData\obj\Debug\SharedData.pdb

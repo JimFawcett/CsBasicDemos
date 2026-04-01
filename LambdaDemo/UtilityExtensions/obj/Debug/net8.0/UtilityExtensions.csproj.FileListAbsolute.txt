@@ -1,0 +1,11 @@
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LambdaDemo\UtilityExtensions\obj\Debug\net8.0\UtilityExtensions.GeneratedMSBuildEditorConfig.editorconfig
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LambdaDemo\UtilityExtensions\obj\Debug\net8.0\UtilityExtensions.csproj.CoreCompileInputs.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LambdaDemo\UtilityExtensions\obj\Debug\net8.0\UtilityExtensions.sourcelink.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LambdaDemo\UtilityExtensions\bin\Debug\net8.0\UtilityExtensions.dll.config
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LambdaDemo\UtilityExtensions\bin\Debug\net8.0\UtilityExtensions.deps.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LambdaDemo\UtilityExtensions\bin\Debug\net8.0\UtilityExtensions.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LambdaDemo\UtilityExtensions\bin\Debug\net8.0\UtilityExtensions.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LambdaDemo\UtilityExtensions\obj\Debug\net8.0\UtilityExtensions.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LambdaDemo\UtilityExtensions\obj\Debug\net8.0\refint\UtilityExtensions.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LambdaDemo\UtilityExtensions\obj\Debug\net8.0\UtilityExtensions.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\LambdaDemo\UtilityExtensions\obj\Debug\net8.0\ref\UtilityExtensions.dll

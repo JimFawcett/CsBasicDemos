@@ -1,0 +1,14 @@
+C:\cse382\code\NetContainers\GenericList\bin\Debug\GenericList.exe
+C:\cse382\code\NetContainers\GenericList\bin\Debug\GenericList.pdb
+C:\cse382\code\NetContainers\GenericList\bin\Debug\Utility.dll
+C:\cse382\code\NetContainers\GenericList\bin\Debug\Utility.pdb
+C:\cse382\code\NetContainers\GenericList\obj\Debug\ResolveAssemblyReference.cache
+C:\cse382\code\NetContainers\GenericList\obj\Debug\GenericList.exe
+C:\cse382\code\NetContainers\GenericList\obj\Debug\GenericList.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericList\bin\Debug\GenericList.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericList\bin\Debug\GenericList.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericList\bin\Debug\Utility.dll
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericList\bin\Debug\Utility.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericList\obj\Debug\GenericList.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\GenericList\obj\Debug\GenericList.pdb

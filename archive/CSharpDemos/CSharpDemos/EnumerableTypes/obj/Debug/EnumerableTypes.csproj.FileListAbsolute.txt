@@ -1,0 +1,8 @@
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\EnumerableTypes\bin\Debug\EnumerableTypes.exe.config
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\EnumerableTypes\bin\Debug\EnumerableTypes.exe
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\EnumerableTypes\bin\Debug\EnumerableTypes.pdb
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\EnumerableTypes\bin\Debug\DemoExtensions.exe
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\EnumerableTypes\bin\Debug\DemoExtensions.pdb
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\EnumerableTypes\obj\Debug\EnumerableTypes.csprojResolveAssemblyReference.cache
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\EnumerableTypes\obj\Debug\EnumerableTypes.exe
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\EnumerableTypes\obj\Debug\EnumerableTypes.pdb

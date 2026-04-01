@@ -1,0 +1,9 @@
+
+  LambdaDemo.PredicateLambda - Demonstrating queryPredicate
+ ===========================================================
+
+  found "foo and" in "fee and foo and Bar" at key value 1
+  found "that ..." in "this is a test that ..." at key value 0
+  found "that ..." in "rumor has it that ..." at key value 2
+  query failed with queryParam "Queen of Hearts"
+

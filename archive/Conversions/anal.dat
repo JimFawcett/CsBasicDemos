@@ -1,0 +1,32 @@
+
+           ANAL - Code Analysis Program
+  ----------------------------------------------
+       copyright (c) Jim Fawcett, 1992-2004
+           all rights granted to users
+             except right to publish
+
+
+  file path:
+  C:\SU\CSE681\code\Conversions
+
+
+  08/27/2006  01:23:21 PM      1669  DemoConversions.cs
+ ==================================================
+   cyclo lines function name
+  - type:   class DemoConverts 
+     1    44   Main
+
+  module summary:
+ ================
+  lines of function code: 44
+  lines of code text:     58
+  cyclomatic complexity:  1
+
+ =================================================
+          summary statistics - all files:
+ =================================================
+
+[    1,   44] - total cyclo, total function lines
+          58  - total lines
+
+

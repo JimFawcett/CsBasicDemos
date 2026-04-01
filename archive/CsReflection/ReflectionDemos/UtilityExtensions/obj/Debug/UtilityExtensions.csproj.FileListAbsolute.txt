@@ -1,0 +1,12 @@
+C:\su\coretechnologies\CSharp\code\LambdaDemo\UtilityExtensions\bin\Debug\UtilityExtensions.exe.config
+C:\su\coretechnologies\CSharp\code\LambdaDemo\UtilityExtensions\bin\Debug\UtilityExtensions.exe
+C:\su\coretechnologies\CSharp\code\LambdaDemo\UtilityExtensions\bin\Debug\UtilityExtensions.pdb
+C:\su\coretechnologies\CSharp\code\LambdaDemo\UtilityExtensions\obj\Debug\UtilityExtensions.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\LambdaDemo\UtilityExtensions\obj\Debug\UtilityExtensions.exe
+C:\su\coretechnologies\CSharp\code\LambdaDemo\UtilityExtensions\obj\Debug\UtilityExtensions.pdb
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\UtilityExtensions\bin\Debug\UtilityExtensions.exe.config
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\UtilityExtensions\bin\Debug\UtilityExtensions.exe
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\UtilityExtensions\bin\Debug\UtilityExtensions.pdb
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\UtilityExtensions\obj\Debug\UtilityExtensions.csprojResolveAssemblyReference.cache
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\UtilityExtensions\obj\Debug\UtilityExtensions.exe
+C:\SU\coretechnologies\CSharp\code\ReflectionDemos\UtilityExtensions\obj\Debug\UtilityExtensions.pdb

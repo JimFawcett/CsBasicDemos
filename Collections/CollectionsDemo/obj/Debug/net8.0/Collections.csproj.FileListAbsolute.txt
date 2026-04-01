@@ -1,0 +1,13 @@
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\obj\Debug\net8.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\obj\Debug\net8.0\Collections.csproj.CoreCompileInputs.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\obj\Debug\net8.0\Collections.sourcelink.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\bin\Debug\net8.0\ConsoleApplication1.exe
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\bin\Debug\net8.0\ConsoleApplication1.deps.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\bin\Debug\net8.0\ConsoleApplication1.runtimeconfig.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\bin\Debug\net8.0\ConsoleApplication1.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\bin\Debug\net8.0\ConsoleApplication1.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\obj\Debug\net8.0\ConsoleApplication1.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\obj\Debug\net8.0\refint\ConsoleApplication1.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\obj\Debug\net8.0\ConsoleApplication1.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\obj\Debug\net8.0\Collections.genruntimeconfig.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\Collections\CollectionsDemo\obj\Debug\net8.0\ref\ConsoleApplication1.dll

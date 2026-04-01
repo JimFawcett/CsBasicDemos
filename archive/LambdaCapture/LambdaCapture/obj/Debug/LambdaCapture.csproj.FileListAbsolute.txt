@@ -1,0 +1,6 @@
+C:\su\coretechnologies\CSharp\code\LambdaCapture\LambdaCapture\bin\Debug\LambdaCapture.exe.config
+C:\su\coretechnologies\CSharp\code\LambdaCapture\LambdaCapture\bin\Debug\LambdaCapture.exe
+C:\su\coretechnologies\CSharp\code\LambdaCapture\LambdaCapture\bin\Debug\LambdaCapture.pdb
+C:\su\coretechnologies\CSharp\code\LambdaCapture\LambdaCapture\obj\Debug\LambdaCapture.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\LambdaCapture\LambdaCapture\obj\Debug\LambdaCapture.exe
+C:\su\coretechnologies\CSharp\code\LambdaCapture\LambdaCapture\obj\Debug\LambdaCapture.pdb

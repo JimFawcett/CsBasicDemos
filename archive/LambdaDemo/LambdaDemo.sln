@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaDemo", "LambdaDemo\LambdaDemo.csproj", "{B925788F-9A17-488C-9781-8D7341005602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityExtensions", "UtilityExtensions\UtilityExtensions.csproj", "{ECE81419-FA10-489A-B083-B83809BD1D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreLambdas", "MoreLambdas\MoreLambdas.csproj", "{E934A670-6CEA-4BDC-9CD0-A9281F8C6CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredicateLambda", "PredicateLambda\PredicateLambda.csproj", "{439A22EB-DA2D-44A1-B15E-BEE7E4845909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B925788F-9A17-488C-9781-8D7341005602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B925788F-9A17-488C-9781-8D7341005602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B925788F-9A17-488C-9781-8D7341005602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B925788F-9A17-488C-9781-8D7341005602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE81419-FA10-489A-B083-B83809BD1D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE81419-FA10-489A-B083-B83809BD1D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE81419-FA10-489A-B083-B83809BD1D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE81419-FA10-489A-B083-B83809BD1D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E934A670-6CEA-4BDC-9CD0-A9281F8C6CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E934A670-6CEA-4BDC-9CD0-A9281F8C6CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E934A670-6CEA-4BDC-9CD0-A9281F8C6CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E934A670-6CEA-4BDC-9CD0-A9281F8C6CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439A22EB-DA2D-44A1-B15E-BEE7E4845909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439A22EB-DA2D-44A1-B15E-BEE7E4845909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439A22EB-DA2D-44A1-B15E-BEE7E4845909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439A22EB-DA2D-44A1-B15E-BEE7E4845909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

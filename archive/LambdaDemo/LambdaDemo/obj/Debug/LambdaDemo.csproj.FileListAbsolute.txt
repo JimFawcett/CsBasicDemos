@@ -1,0 +1,8 @@
+C:\su\coretechnologies\CSharp\code\LambdaDemo\LambdaDemo\bin\Debug\LambdaDemo.exe.config
+C:\su\coretechnologies\CSharp\code\LambdaDemo\LambdaDemo\bin\Debug\LambdaDemo.exe
+C:\su\coretechnologies\CSharp\code\LambdaDemo\LambdaDemo\bin\Debug\LambdaDemo.pdb
+C:\su\coretechnologies\CSharp\code\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.exe
+C:\su\coretechnologies\CSharp\code\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.pdb
+C:\su\coretechnologies\CSharp\code\LambdaDemo\LambdaDemo\bin\Debug\UtilityExtensions.exe
+C:\su\coretechnologies\CSharp\code\LambdaDemo\LambdaDemo\bin\Debug\UtilityExtensions.pdb

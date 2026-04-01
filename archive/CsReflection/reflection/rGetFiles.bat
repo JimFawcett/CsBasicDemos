@@ -1,0 +1,2 @@
+:rGetFiles.bat
+  GetFiles *.*

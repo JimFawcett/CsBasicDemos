@@ -1,0 +1,10 @@
+C:\su\CoreTechnologies\CSharp\code\LinQexamples\LinqExamples\Utilities\bin\Debug\Utilities.dll
+C:\su\CoreTechnologies\CSharp\code\LinQexamples\LinqExamples\Utilities\bin\Debug\Utilities.pdb
+C:\su\CoreTechnologies\CSharp\code\LinQexamples\LinqExamples\Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\CSharp\code\LinQexamples\LinqExamples\Utilities\obj\Debug\Utilities.dll
+C:\su\CoreTechnologies\CSharp\code\LinQexamples\LinqExamples\Utilities\obj\Debug\Utilities.pdb
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\Utilities\bin\Debug\Utilities.dll
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\Utilities\bin\Debug\Utilities.pdb
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\Utilities\obj\Debug\Utilities.dll
+C:\su\CoreTechnologies\CSharp\code\LinqExamples\Utilities\obj\Debug\Utilities.pdb
+C:\su\coretechnologies\CSharp\code\LinqExamples\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache

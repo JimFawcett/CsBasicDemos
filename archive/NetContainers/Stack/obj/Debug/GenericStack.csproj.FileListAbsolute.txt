@@ -1,0 +1,14 @@
+C:\cse382\code\NetContainers\Stack\obj\Debug\ResolveAssemblyReference.cache
+C:\cse382\code\NetContainers\Stack\bin\Debug\Stack.exe
+C:\cse382\code\NetContainers\Stack\bin\Debug\Stack.pdb
+C:\cse382\code\NetContainers\Stack\bin\Debug\Utility.dll
+C:\cse382\code\NetContainers\Stack\bin\Debug\Utility.pdb
+C:\cse382\code\NetContainers\Stack\obj\Debug\Stack.exe
+C:\cse382\code\NetContainers\Stack\obj\Debug\Stack.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\Stack\bin\Debug\Stack.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\Stack\bin\Debug\Stack.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\Stack\bin\Debug\Utility.dll
+C:\su\coretechnologies\CSharp\code\NetContainers\Stack\bin\Debug\Utility.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\Stack\obj\Debug\GenericStack.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\NetContainers\Stack\obj\Debug\Stack.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\Stack\obj\Debug\Stack.pdb

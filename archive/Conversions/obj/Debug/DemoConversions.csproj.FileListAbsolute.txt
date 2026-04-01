@@ -1,0 +1,12 @@
+C:\su\CSE681\code\Conversions\bin\Debug\ConsoleApplication1.exe.config
+C:\su\CSE681\code\Conversions\obj\Debug\ConsoleApplication1.exe
+C:\su\CSE681\code\Conversions\obj\Debug\ConsoleApplication1.pdb
+C:\su\CSE681\code\Conversions\bin\Debug\ConsoleApplication1.exe
+C:\su\CSE681\code\Conversions\bin\Debug\ConsoleApplication1.pdb
+C:\su\CSE681\code\Conversions\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\CSharp\code\Conversions\bin\Debug\ConsoleApplication1.exe.config
+C:\su\CoreTechnologies\CSharp\code\Conversions\obj\Debug\ConsoleApplication1.exe
+C:\su\CoreTechnologies\CSharp\code\Conversions\obj\Debug\ConsoleApplication1.pdb
+C:\su\coretechnologies\CSharp\code\Conversions\bin\Debug\ConsoleApplication1.exe
+C:\su\coretechnologies\CSharp\code\Conversions\bin\Debug\ConsoleApplication1.pdb
+C:\su\coretechnologies\CSharp\code\Conversions\obj\Debug\DemoConversions.csprojResolveAssemblyReference.cache

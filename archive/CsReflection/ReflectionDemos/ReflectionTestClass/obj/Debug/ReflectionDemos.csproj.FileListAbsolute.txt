@@ -1,0 +1,6 @@
+C:\su\CSE681\code\ReflectionDemos\ReflectionDemos\ReflectionDemos\bin\Debug\ReflectionDemos.exe.config
+C:\su\CSE681\code\ReflectionDemos\ReflectionDemos\ReflectionDemos\bin\Debug\ReflectionDemos.exe
+C:\su\CSE681\code\ReflectionDemos\ReflectionDemos\ReflectionDemos\bin\Debug\ReflectionDemos.pdb
+C:\su\CSE681\code\ReflectionDemos\ReflectionDemos\ReflectionDemos\obj\Debug\ReflectionDemos.csprojResolveAssemblyReference.cache
+C:\su\CSE681\code\ReflectionDemos\ReflectionDemos\ReflectionDemos\obj\Debug\ReflectionDemos.exe
+C:\su\CSE681\code\ReflectionDemos\ReflectionDemos\ReflectionDemos\obj\Debug\ReflectionDemos.pdb

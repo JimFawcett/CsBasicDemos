@@ -1,0 +1,2 @@
+C:\su\CoreTechnologies\CSharp\code\reflection\obj\Debug\demoFiles.exe
+C:\su\CoreTechnologies\CSharp\code\reflection\obj\Debug\demoFiles.pdb

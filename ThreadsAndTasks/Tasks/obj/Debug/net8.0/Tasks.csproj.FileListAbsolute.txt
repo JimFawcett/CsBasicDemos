@@ -1,0 +1,14 @@
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\bin\Debug\net8.0\Tasks.exe
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\bin\Debug\net8.0\Tasks.dll.config
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\bin\Debug\net8.0\Tasks.deps.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\bin\Debug\net8.0\Tasks.runtimeconfig.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\bin\Debug\net8.0\Tasks.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\bin\Debug\net8.0\Tasks.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\obj\Debug\net8.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\obj\Debug\net8.0\Tasks.csproj.CoreCompileInputs.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\obj\Debug\net8.0\Tasks.sourcelink.json
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\obj\Debug\net8.0\Tasks.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\obj\Debug\net8.0\refint\Tasks.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\obj\Debug\net8.0\Tasks.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsBasicDemos\ThreadsAndTasks\Tasks\obj\Debug\net8.0\ref\Tasks.dll

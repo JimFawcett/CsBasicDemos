@@ -1,0 +1,8 @@
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\ClassRelationships\bin\Debug\ClassRelationships.exe.config
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\ClassRelationships\bin\Debug\ClassRelationships.exe
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\ClassRelationships\bin\Debug\ClassRelationships.pdb
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\ClassRelationships\bin\Debug\DemoExtensions.exe
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\ClassRelationships\bin\Debug\DemoExtensions.pdb
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\ClassRelationships\obj\Debug\ClassRelationships.csprojResolveAssemblyReference.cache
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\ClassRelationships\obj\Debug\ClassRelationships.exe
+C:\SU\coretechnologies\CSharp\code\CSharpDemos\CSharpDemos\ClassRelationships\obj\Debug\ClassRelationships.pdb

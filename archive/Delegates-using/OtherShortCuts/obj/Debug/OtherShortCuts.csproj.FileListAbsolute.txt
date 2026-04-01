@@ -1,0 +1,10 @@
+c:\su\cse681\code\Net3.5Stuff\OtherShortCuts\obj\Debug\ResolveAssemblyReference.cache
+c:\su\cse681\code\Net3.5Stuff\OtherShortCuts\bin\Debug\OtherShortCuts.exe
+c:\su\cse681\code\Net3.5Stuff\OtherShortCuts\bin\Debug\OtherShortCuts.pdb
+c:\su\cse681\code\Net3.5Stuff\OtherShortCuts\obj\Debug\OtherShortCuts.exe
+c:\su\cse681\code\Net3.5Stuff\OtherShortCuts\obj\Debug\OtherShortCuts.pdb
+Z:\CoreTechnologies\CSharp\code\Delegates-using\OtherShortCuts\bin\Debug\OtherShortCuts.exe
+Z:\CoreTechnologies\CSharp\code\Delegates-using\OtherShortCuts\bin\Debug\OtherShortCuts.pdb
+Z:\CoreTechnologies\CSharp\code\Delegates-using\OtherShortCuts\obj\Debug\OtherShortCuts.csprojResolveAssemblyReference.cache
+Z:\CoreTechnologies\CSharp\code\Delegates-using\OtherShortCuts\obj\Debug\OtherShortCuts.exe
+Z:\CoreTechnologies\CSharp\code\Delegates-using\OtherShortCuts\obj\Debug\OtherShortCuts.pdb

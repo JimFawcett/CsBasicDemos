@@ -1,0 +1,5 @@
+bin\Debug\LibraryInterface.dll
+bin\Debug\LibraryInterface.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LibraryInterface.dll
+obj\Debug\LibraryInterface.pdb

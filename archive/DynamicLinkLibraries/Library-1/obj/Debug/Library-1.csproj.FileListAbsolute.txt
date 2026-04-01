@@ -1,0 +1,7 @@
+C:\su\CSE681\code\DynamicLinkLibraries\Library-1\bin\Debug\Library-1.dll
+C:\su\CSE681\code\DynamicLinkLibraries\Library-1\bin\Debug\Library-1.pdb
+C:\su\CSE681\code\DynamicLinkLibraries\Library-1\bin\Debug\LibraryInterface.dll
+C:\su\CSE681\code\DynamicLinkLibraries\Library-1\bin\Debug\LibraryInterface.pdb
+C:\su\CSE681\code\DynamicLinkLibraries\Library-1\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\DynamicLinkLibraries\Library-1\obj\Debug\Library-1.dll
+C:\su\CSE681\code\DynamicLinkLibraries\Library-1\obj\Debug\Library-1.pdb

@@ -1,0 +1,5 @@
+obj\Debug\MethodParamDemo.exe
+obj\Debug\MethodParamDemo.pdb
+bin\Debug\MethodParamDemo.exe
+bin\Debug\MethodParamDemo.pdb
+obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿<!-- 
+///////////////////////////////////////////////////////////////
+// Window1.Xaml - Demonstrate Binding to XML                 //
+//                                                           //
+// Jim Fawcett, CSE775 - Distributed Objects, Spring 2009    //
+///////////////////////////////////////////////////////////////
+-->
+<Window x:Class="DemoBinding.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="CSE775 - Distributed Objects" Height="334" Width="473" Loaded="Window_Loaded" Background="AntiqueWhite">
+  <Window.Resources>
+    <XmlDataProvider x:Key="BindingXml" Source="DemoBinding.xml" XPath="DataBindDemo" />
+  </Window.Resources>
+    <Grid Background="AliceBlue">
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="277*" />
+      <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+    <ListBox Margin="48,49,0,31" Name="listBox1" 
+             ItemsSource="{Binding Source={StaticResource BindingXml},
+             XPath=/DataBindDemo/item}" HorizontalAlignment="Left" Width="152" />
+    <ListBox HorizontalAlignment="Right" Margin="0,48,61,32" Name="listBox2" Width="139" />
+    <TextBlock Height="21" HorizontalAlignment="Left" Margin="48,18,0,0" Name="textBlock1" VerticalAlignment="Top" Width="152" Text="XPath Binding" FontWeight="Bold" TextAlignment="Center" Background="CornflowerBlue" Foreground="White" /><TextBlock Height="21" HorizontalAlignment="Right" Margin="0,18,61,0" Name="textBlock2" VerticalAlignment="Top" Width="139" Text="Linq Binding" Background="CornflowerBlue" Foreground="White" FontWeight="Bold" TextAlignment="Center" TextDecorations="None" />
+  </Grid>
+</Window>

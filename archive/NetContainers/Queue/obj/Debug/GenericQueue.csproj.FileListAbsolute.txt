@@ -1,0 +1,14 @@
+C:\cse382\code\NetContainers\Queue\bin\Debug\Queue.exe
+C:\cse382\code\NetContainers\Queue\bin\Debug\Queue.pdb
+C:\cse382\code\NetContainers\Queue\bin\Debug\Utility.dll
+C:\cse382\code\NetContainers\Queue\bin\Debug\Utility.pdb
+C:\cse382\code\NetContainers\Queue\obj\Debug\ResolveAssemblyReference.cache
+C:\cse382\code\NetContainers\Queue\obj\Debug\Queue.exe
+C:\cse382\code\NetContainers\Queue\obj\Debug\Queue.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\Queue\bin\Debug\Queue.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\Queue\bin\Debug\Queue.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\Queue\bin\Debug\Utility.dll
+C:\su\coretechnologies\CSharp\code\NetContainers\Queue\bin\Debug\Utility.pdb
+C:\su\coretechnologies\CSharp\code\NetContainers\Queue\obj\Debug\GenericQueue.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\NetContainers\Queue\obj\Debug\Queue.exe
+C:\su\coretechnologies\CSharp\code\NetContainers\Queue\obj\Debug\Queue.pdb
